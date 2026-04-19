@@ -1,0 +1,36 @@
+{
+  "templateKey": "sinus_congestion",
+  "category": "ent",
+  "plainName": "congestion nasal y presion facial",
+  "normalSymptoms": [
+    "nariz tapada",
+    "mocos",
+    "presion en la cara",
+    "dolor de cabeza leve"
+  ],
+  "watchSymptoms": [
+    "sintomas que duran mas de 7 a 10 dias",
+    "dolor facial que aumenta",
+    "fiebre que aparece o reaparece"
+  ],
+  "alarmSymptoms": [
+    "hinchazon alrededor del ojo",
+    "dolor muy intenso con empeoramiento rapido",
+    "rigidez de cuello o confusion"
+  ],
+  "doList": [
+    "descansar e hidratarte",
+    "mantener el ambiente humedo si ayuda",
+    "consultar si no mejora o empeora"
+  ],
+  "avoidList": [
+    "fumar",
+    "abusar de descongestionantes sin indicacion",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 5", "text": "congestion y presion pueden fluctuar" },
+    { "period": "Dias 6 a 14", "text": "en la mayoria mejora; si no, conviene revision" }
+  ]
+}
+

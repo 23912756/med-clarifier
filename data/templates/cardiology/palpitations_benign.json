@@ -1,0 +1,35 @@
+{
+  "templateKey": "palpitations_benign",
+  "category": "cardiology",
+  "plainName": "palpitaciones ocasionales",
+  "normalSymptoms": [
+    "latidos fuertes o rapidos por momentos",
+    "sensacion de vuelco en el pecho",
+    "ansiedad asociada"
+  ],
+  "watchSymptoms": [
+    "palpitaciones mas frecuentes",
+    "malestar que dura mas de lo habitual",
+    "mareo leve asociado"
+  ],
+  "alarmSymptoms": [
+    "desmayo o casi desmayo",
+    "dolor de pecho",
+    "dificultad para respirar"
+  ],
+  "doList": [
+    "anotar cuando ocurre y cuanto dura",
+    "revisar cafeina, alcohol o falta de sueno",
+    "consultar si se repite o preocupa"
+  ],
+  "avoidList": [
+    "hacer esfuerzos si te sientes mareado",
+    "automedicarte para el corazon",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeros dias", "text": "pueden ser episodios aislados y variables" },
+    { "period": "Semanas", "text": "si persisten, conviene una valoracion" }
+  ]
+}
+

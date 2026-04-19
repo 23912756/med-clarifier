@@ -1,0 +1,35 @@
+{
+  "templateKey": "dry_eye_symptoms",
+  "category": "ophthalmology",
+  "plainName": "ojo seco e irritacion",
+  "normalSymptoms": [
+    "escozor",
+    "sensacion de arenilla",
+    "lagrimeo por irritacion"
+  ],
+  "watchSymptoms": [
+    "molestia que no mejora con descanso",
+    "enrojecimiento persistente",
+    "sensibilidad a la luz"
+  ],
+  "alarmSymptoms": [
+    "dolor intenso en el ojo",
+    "bajada de vision",
+    "ojo rojo con empeoramiento rapido"
+  ],
+  "doList": [
+    "descansar de pantallas y parpadear mas",
+    "evitar aire directo y humo",
+    "consultar si persiste o preocupa"
+  ],
+  "avoidList": [
+    "frotarte los ojos",
+    "usar colirios nuevos sin indicacion",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias iniciales", "text": "puede fluctuar segun ambiente y pantallas" },
+    { "period": "1 a 2 semanas", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "acute_otitis_suspected",
+  "category": "pediatrics",
+  "plainName": "dolor de oido en nino (posible otitis)",
+  "normalSymptoms": [
+    "dolor de oido",
+    "irritabilidad",
+    "dificultad para dormir"
+  ],
+  "watchSymptoms": [
+    "fiebre que aparece o persiste",
+    "dolor que no mejora",
+    "secrecion por el oido"
+  ],
+  "alarmSymptoms": [
+    "somnolencia marcada o mal estado general",
+    "dolor intenso con empeoramiento rapido",
+    "rigidez de cuello o manchas en la piel"
+  ],
+  "doList": [
+    "vigilar fiebre y estado general",
+    "ofrecer liquidos con frecuencia",
+    "consultar para valorar el oido"
+  ],
+  "avoidList": [
+    "meter bastoncillos u objetos en el oido",
+    "automedicar antibioticos",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeras 24 a 48 horas", "text": "dolor y fiebre pueden variar" },
+    { "period": "Dias 3 a 5", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

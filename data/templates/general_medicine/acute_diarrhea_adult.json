@@ -1,0 +1,36 @@
+{
+  "templateKey": "acute_diarrhea_adult",
+  "category": "general_medicine",
+  "plainName": "diarrea aguda en adulto",
+  "normalSymptoms": [
+    "diarrea",
+    "dolor abdominal leve",
+    "nauseas",
+    "cansancio"
+  ],
+  "watchSymptoms": [
+    "diarrea que no mejora en 2 a 3 dias",
+    "signos de deshidratacion leve",
+    "dolor abdominal que aumenta"
+  ],
+  "alarmSymptoms": [
+    "sangre en heces",
+    "somnolencia marcada o confusion",
+    "dolor abdominal intenso y continuo"
+  ],
+  "doList": [
+    "beber liquidos a sorbos frecuentes",
+    "comer ligero segun tolerancia",
+    "consultar si empeora o persiste"
+  ],
+  "avoidList": [
+    "alcohol y comidas muy grasas",
+    "forzarte a comer si vomitas",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeras 24 a 48 horas", "text": "diarrea y malestar pueden ser mas intensos" },
+    { "period": "Dias 3 a 7", "text": "en la mayoria mejora de forma progresiva" }
+  ]
+}
+

@@ -1,0 +1,36 @@
+{
+  "templateKey": "acute_fever_child",
+  "category": "pediatrics",
+  "plainName": "fiebre aguda en nino",
+  "normalSymptoms": [
+    "fiebre",
+    "cansancio",
+    "menos apetito",
+    "dolor muscular leve"
+  ],
+  "watchSymptoms": [
+    "fiebre que no baja o se repite varios dias",
+    "dolor de oido o garganta que aumenta",
+    "empeoramiento del estado general"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "rigidez de cuello o manchas en la piel",
+    "somnolencia marcada o convulsiones"
+  ],
+  "doList": [
+    "ofrecer liquidos con frecuencia",
+    "vigilar respiracion y estado general",
+    "consultar si persiste o preocupa"
+  ],
+  "avoidList": [
+    "abrigar en exceso si esta acalorado",
+    "automedicar sin indicacion",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeras 24 a 48 horas", "text": "puede variar segun la causa" },
+    { "period": "Dias 3 a 5", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

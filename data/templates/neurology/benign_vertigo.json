@@ -1,0 +1,35 @@
+{
+  "templateKey": "benign_vertigo",
+  "category": "neurology",
+  "plainName": "mareo o vertigo leve",
+  "normalSymptoms": [
+    "sensacion de giro o inestabilidad",
+    "nauseas leves",
+    "empeora con ciertos movimientos"
+  ],
+  "watchSymptoms": [
+    "mareo que no mejora en 24 a 48 horas",
+    "vomitos repetidos",
+    "dificultad para caminar por inestabilidad"
+  ],
+  "alarmSymptoms": [
+    "debilidad o adormecimiento de un lado",
+    "dificultad para hablar o ver",
+    "dolor de cabeza intenso nuevo"
+  ],
+  "doList": [
+    "levantarte despacio y moverte con cuidado",
+    "hidratarte y comer ligero si hay nauseas",
+    "pedir ayuda si te sientes inseguro al caminar"
+  ],
+  "avoidList": [
+    "conducir si tienes vertigo",
+    "subir escaleras solo si estas inestable",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeras 24 horas", "text": "puede variar en intensidad segun movimientos" },
+    { "period": "2 a 7 dias", "text": "si persiste o empeora, conviene valoracion" }
+  ]
+}
+

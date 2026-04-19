@@ -1,0 +1,35 @@
+{
+  "templateKey": "prostatitis_symptoms",
+  "category": "urology",
+  "plainName": "dolor pelvico y molestias al orinar",
+  "normalSymptoms": [
+    "molestia al orinar",
+    "dolor en la zona pelvica",
+    "sensacion de presion"
+  ],
+  "watchSymptoms": [
+    "dolor que aumenta",
+    "fiebre baja o escalofrios leves",
+    "malestar general"
+  ],
+  "alarmSymptoms": [
+    "fiebre alta",
+    "retencion de orina",
+    "dolor intenso con empeoramiento rapido"
+  ],
+  "doList": [
+    "consultar para valorar la causa",
+    "beber liquidos con regularidad",
+    "acudir urgente si hay fiebre alta o retencion"
+  ],
+  "avoidList": [
+    "automedicar antibioticos",
+    "hacer esfuerzos intensos si duele",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias iniciales", "text": "las molestias pueden variar y requerir revision" },
+    { "period": "1 semana", "text": "si persiste, conviene plan y seguimiento" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "vaginal_discharge_irritation",
+  "category": "gynecology",
+  "plainName": "flujo vaginal y picor",
+  "normalSymptoms": [
+    "picor o escozor",
+    "cambio en el flujo",
+    "molestia local"
+  ],
+  "watchSymptoms": [
+    "sintomas que no mejoran en pocos dias",
+    "olor fuerte persistente",
+    "dolor al orinar"
+  ],
+  "alarmSymptoms": [
+    "fiebre",
+    "dolor abdominal fuerte",
+    "sangrado fuera de la regla importante"
+  ],
+  "doList": [
+    "mantener higiene suave sin irritantes",
+    "usar ropa interior transpirable",
+    "consultar para identificar la causa"
+  ],
+  "avoidList": [
+    "duchas vaginales",
+    "usar productos perfumados en la zona",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeros dias", "text": "las molestias pueden variar segun la causa" },
+    { "period": "1 semana", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

@@ -1,0 +1,36 @@
+{
+  "templateKey": "viral_cold_child",
+  "category": "pediatrics",
+  "plainName": "resfriado viral en nino",
+  "normalSymptoms": [
+    "mocos",
+    "tos leve",
+    "dolor de garganta leve",
+    "cansancio"
+  ],
+  "watchSymptoms": [
+    "fiebre que dura mas de 2 a 3 dias",
+    "tos que empeora",
+    "rechazo de liquidos"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "somnolencia marcada o irritabilidad extrema",
+    "signos de deshidratacion"
+  ],
+  "doList": [
+    "ofrecer liquidos con frecuencia",
+    "descanso y ambiente tranquilo",
+    "consultar si hay dudas o empeora"
+  ],
+  "avoidList": [
+    "forzar a comer si no quiere",
+    "exponer a humo de tabaco",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "mocos y malestar suelen ser mas intensos" },
+    { "period": "Dias 4 a 10", "text": "mejora progresiva, la tos puede durar mas" }
+  ]
+}
+

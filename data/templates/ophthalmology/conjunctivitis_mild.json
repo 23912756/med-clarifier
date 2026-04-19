@@ -1,0 +1,36 @@
+{
+  "templateKey": "conjunctivitis_mild",
+  "category": "ophthalmology",
+  "plainName": "conjuntivitis leve",
+  "normalSymptoms": [
+    "ojo rojo",
+    "picor o escozor",
+    "lagrimeo",
+    "sensacion de arenilla"
+  ],
+  "watchSymptoms": [
+    "secrecion que aumenta",
+    "ojo rojo que no mejora en 2 a 3 dias",
+    "molestia que empeora con la luz"
+  ],
+  "alarmSymptoms": [
+    "dolor intenso en el ojo",
+    "bajada de vision",
+    "traumatismo ocular reciente"
+  ],
+  "doList": [
+    "lavar manos con frecuencia",
+    "evitar tocarte los ojos",
+    "consultar si empeora o hay dudas"
+  ],
+  "avoidList": [
+    "compartir toallas o maquillaje",
+    "usar lentes de contacto si molesta",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeros dias", "text": "ojo rojo y molestias pueden variar" },
+    { "period": "3 a 7 dias", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "kidney_stone_suspected",
+  "category": "urology",
+  "plainName": "dolor tipo colico en un lado (sospecha de piedra)",
+  "normalSymptoms": [
+    "dolor en un costado que viene en olas",
+    "nauseas",
+    "inquietud por el dolor"
+  ],
+  "watchSymptoms": [
+    "dolor que no se controla o no cede",
+    "vomitos repetidos",
+    "dificultad para orinar"
+  ],
+  "alarmSymptoms": [
+    "fiebre",
+    "dolor muy intenso con mal estado general",
+    "sangre abundante en la orina"
+  ],
+  "doList": [
+    "buscar un lugar seguro para descansar",
+    "beber liquidos si lo toleras",
+    "consultar con urgencia si hay alarma"
+  ],
+  "avoidList": [
+    "conducir si el dolor es intenso",
+    "ignorar fiebre o escalofrios",
+    "esperar demasiado si empeora"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "el dolor puede ser intenso y fluctuante" },
+    { "period": "24 a 48 horas", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

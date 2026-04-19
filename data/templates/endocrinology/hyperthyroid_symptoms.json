@@ -1,0 +1,36 @@
+{
+  "templateKey": "hyperthyroid_symptoms",
+  "category": "endocrinology",
+  "plainName": "posibles sintomas de hipertiroidismo",
+  "normalSymptoms": [
+    "nervios o inquietud",
+    "palpitaciones leves",
+    "sudoracion",
+    "perdida de peso sin intentarlo"
+  ],
+  "watchSymptoms": [
+    "temblor persistente",
+    "diarrea o heces mas blandas frecuentes",
+    "cansancio con dificultad para dormir"
+  ],
+  "alarmSymptoms": [
+    "dolor de pecho",
+    "dificultad para respirar",
+    "desmayo o mareo intenso"
+  ],
+  "doList": [
+    "anotar sintomas y su evolucion",
+    "pedir valoracion y analitica si procede",
+    "consultar pronto si hay palpitaciones fuertes"
+  ],
+  "avoidList": [
+    "consumir muchos estimulantes si empeora",
+    "cambiar medicacion por tu cuenta",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Semanas", "text": "los sintomas pueden ser progresivos o fluctuantes" },
+    { "period": "Meses", "text": "con diagnostico, se ajusta el plan y seguimiento" }
+  ]
+}
+

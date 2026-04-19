@@ -1,0 +1,35 @@
+{
+  "templateKey": "ankle_overuse_pain",
+  "category": "rehabilitation",
+  "plainName": "dolor de tobillo por sobrecarga",
+  "normalSymptoms": [
+    "dolor al caminar o al correr",
+    "molestia al final del dia",
+    "rigidez leve al empezar a moverte"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora con reposo relativo",
+    "hinchazon que aparece o aumenta",
+    "dolor que te obliga a cojear"
+  ],
+  "alarmSymptoms": [
+    "incapacidad para apoyar",
+    "deformidad tras torcedura",
+    "dolor muy intenso con empeoramiento"
+  ],
+  "doList": [
+    "reducir actividad que lo desencadena",
+    "aplicar rutina de recuperacion segun tolerancia",
+    "consultar si persiste o empeora"
+  ],
+  "avoidList": [
+    "seguir entrenando con dolor",
+    "cambiar calzado o plantillas sin control si empeora",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 7", "text": "suele variar segun carga y descanso" },
+    { "period": "2 a 6 semanas", "text": "mejora gradual si se ajusta la carga" }
+  ]
+}
+

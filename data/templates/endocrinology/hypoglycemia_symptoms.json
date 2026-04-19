@@ -1,0 +1,36 @@
+{
+  "templateKey": "hypoglycemia_symptoms",
+  "category": "endocrinology",
+  "plainName": "bajada de azucar (hipoglucemia) sospechada",
+  "normalSymptoms": [
+    "temblor",
+    "sudor frio",
+    "hambre repentina",
+    "mareo"
+  ],
+  "watchSymptoms": [
+    "episodios repetidos en pocos dias",
+    "dificultad para concentrarte",
+    "dolor de cabeza que aparece con el episodio"
+  ],
+  "alarmSymptoms": [
+    "confusion marcada",
+    "desmayo o convulsion",
+    "dificultad para despertarte"
+  ],
+  "doList": [
+    "sentarte y evitar conducir o manejar maquinas",
+    "anotar que paso antes del episodio",
+    "consultar para ajustar el plan si se repite"
+  ],
+  "avoidList": [
+    "saltarte comidas si ya te ha pasado",
+    "hacer ejercicio intenso si te sientes inestable",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Minutos a 1 hora", "text": "los sintomas pueden aparecer rapido" },
+    { "period": "Dias siguientes", "text": "si se repite, conviene revision y ajustes" }
+  ]
+}
+

@@ -1,0 +1,36 @@
+{
+  "templateKey": "viral_sore_throat",
+  "category": "ent",
+  "plainName": "dolor de garganta viral",
+  "normalSymptoms": [
+    "dolor al tragar",
+    "carraspera",
+    "tos leve",
+    "malestar"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en 3 a 5 dias",
+    "fiebre que persiste",
+    "dificultad para tragar que aumenta"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "babear o no poder tragar liquidos",
+    "dolor muy intenso con empeoramiento rapido"
+  ],
+  "doList": [
+    "hidratarte con frecuencia",
+    "descansar la voz si duele",
+    "consultar si empeora o preocupa"
+  ],
+  "avoidList": [
+    "fumar o exponerte a humo",
+    "forzar la voz",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "dolor y malestar suelen ser mayores" },
+    { "period": "Dias 4 a 10", "text": "mejora progresiva en la mayoria" }
+  ]
+}
+

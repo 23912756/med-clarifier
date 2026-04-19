@@ -1,0 +1,35 @@
+{
+  "templateKey": "contact_dermatitis_mild",
+  "category": "dermatology",
+  "plainName": "dermatitis de contacto leve",
+  "normalSymptoms": [
+    "picor",
+    "enrojecimiento local",
+    "piel seca o irritada"
+  ],
+  "watchSymptoms": [
+    "zona que se extiende",
+    "ampollas pequeñas que aumentan",
+    "picor que no mejora"
+  ],
+  "alarmSymptoms": [
+    "hinchazon de cara o labios",
+    "dificultad para respirar",
+    "fiebre o pus en la zona"
+  ],
+  "doList": [
+    "evitar el producto o material sospechoso",
+    "mantener la zona limpia y seca",
+    "consultar si no mejora en pocos dias"
+  ],
+  "avoidList": [
+    "rascarte porque empeora la piel",
+    "usar cremas nuevas sin saber si irritan",
+    "cubrir con vendajes oclusivos si empeora"
+  ],
+  "timeline": [
+    { "period": "Primeros dias", "text": "picor y enrojecimiento suelen ser lo mas comun" },
+    { "period": "3 a 7 dias", "text": "si se evita el desencadenante, suele mejorar" }
+  ]
+}
+

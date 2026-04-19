@@ -1,0 +1,36 @@
+{
+  "templateKey": "cellulitis_suspected",
+  "category": "dermatology",
+  "plainName": "piel roja caliente y dolorosa (posible infeccion)",
+  "normalSymptoms": [
+    "zona roja",
+    "calor local",
+    "dolor o sensibilidad",
+    "hinchazon"
+  ],
+  "watchSymptoms": [
+    "aumento rapido del area roja",
+    "dolor que empeora",
+    "malestar general"
+  ],
+  "alarmSymptoms": [
+    "fiebre alta",
+    "rayas rojas que suben por la piel",
+    "confusion o somnolencia marcada"
+  ],
+  "doList": [
+    "marcar el borde para ver si avanza",
+    "mantener la zona limpia",
+    "consultar pronto para valoracion"
+  ],
+  "avoidList": [
+    "pinchar o manipular la zona",
+    "esperar varios dias si avanza",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "puede progresar si es infeccion" },
+    { "period": "1 a 2 dias", "text": "si empeora, conviene consulta urgente" }
+  ]
+}
+

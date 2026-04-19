@@ -1,0 +1,35 @@
+{
+  "templateKey": "hypothyroid_symptoms",
+  "category": "endocrinology",
+  "plainName": "posibles sintomas de hipotiroidismo",
+  "normalSymptoms": [
+    "cansancio",
+    "sensacion de frio",
+    "piel seca"
+  ],
+  "watchSymptoms": [
+    "aumento de peso sin cambios claros",
+    "estreñimiento persistente",
+    "bajo estado de animo prolongado"
+  ],
+  "alarmSymptoms": [
+    "hinchazon marcada de cara o piernas",
+    "dolor de pecho o falta de aire",
+    "confusion o somnolencia intensa"
+  ],
+  "doList": [
+    "anotar sintomas y su duracion",
+    "pedir una valoracion y analitica si procede",
+    "seguir el plan si ya estas en control"
+  ],
+  "avoidList": [
+    "cambiar medicacion por tu cuenta",
+    "suplementos milagro sin control",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Semanas", "text": "los sintomas suelen ser lentos y progresivos" },
+    { "period": "Meses", "text": "con seguimiento, se ajusta el plan segun respuesta" }
+  ]
+}
+

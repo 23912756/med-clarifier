@@ -1,0 +1,35 @@
+{
+  "templateKey": "blepharitis_mild",
+  "category": "ophthalmology",
+  "plainName": "blefaritis leve",
+  "normalSymptoms": [
+    "picor en parpados",
+    "costras o escamas en pestanas",
+    "ojo irritado"
+  ],
+  "watchSymptoms": [
+    "enrojecimiento que no mejora",
+    "dolor creciente en el parpado",
+    "secrecion que aumenta"
+  ],
+  "alarmSymptoms": [
+    "hinchazon importante alrededor del ojo",
+    "bajada de vision",
+    "fiebre o mal estado general"
+  ],
+  "doList": [
+    "higiene suave de parpados de forma constante",
+    "evitar maquillaje si irrita",
+    "consultar si persiste o empeora"
+  ],
+  "avoidList": [
+    "frotar los ojos",
+    "usar productos nuevos irritantes",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias", "text": "puede fluctuar y mejorar con rutina de higiene" },
+    { "period": "Semanas", "text": "si se repite, conviene un plan de seguimiento" }
+  ]
+}
+

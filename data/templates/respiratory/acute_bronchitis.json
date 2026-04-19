@@ -1,0 +1,35 @@
+{
+  "templateKey": "acute_bronchitis",
+  "category": "respiratory",
+  "plainName": "bronquitis aguda",
+  "normalSymptoms": [
+    "tos",
+    "molestia en el pecho",
+    "cansancio",
+    "sensacion de irritacion de garganta"
+  ],
+  "watchSymptoms": [
+    "tos persistente que no mejora",
+    "empeoramiento progresivo",
+    "molestia respiratoria creciente"
+  ],
+  "alarmSymptoms": [
+    "dificultad importante para respirar",
+    "fiebre alta mantenida",
+    "empeoramiento claro del estado general"
+  ],
+  "doList": [
+    "descansar",
+    "mantener una buena hidratacion",
+    "seguir las pautas medicas indicadas"
+  ],
+  "avoidList": [
+    "hacer esfuerzos intensos",
+    "fumar",
+    "ignorar un empeoramiento respiratorio"
+  ],
+  "timeline": [
+    { "period": "Primeros dias", "text": "tos y malestar general" },
+    { "period": "Dias siguientes", "text": "mejora progresiva en la mayoria de los casos" }
+  ]
+}

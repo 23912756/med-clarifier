@@ -1,0 +1,35 @@
+{
+  "templateKey": "skin_rash_child_mild",
+  "category": "pediatrics",
+  "plainName": "sarpullido leve en nino",
+  "normalSymptoms": [
+    "manchas o ronchas leves",
+    "picor",
+    "piel enrojecida"
+  ],
+  "watchSymptoms": [
+    "sarpullido que se extiende",
+    "fiebre asociada",
+    "malestar general"
+  ],
+  "alarmSymptoms": [
+    "hinchazon de labios o cara",
+    "dificultad para respirar",
+    "manchas moradas que no desaparecen al presionar"
+  ],
+  "doList": [
+    "observar evolucion y zonas afectadas",
+    "evitar calor excesivo y ropa ajustada",
+    "consultar si hay fiebre o dudas"
+  ],
+  "avoidList": [
+    "probar muchos productos nuevos en la piel",
+    "rascarse de forma intensa",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas a 2 dias", "text": "puede variar en intensidad" },
+    { "period": "3 a 7 dias", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

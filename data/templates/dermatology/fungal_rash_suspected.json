@@ -1,0 +1,35 @@
+{
+  "templateKey": "fungal_rash_suspected",
+  "category": "dermatology",
+  "plainName": "lesion en anillo o picor (posible hongo)",
+  "normalSymptoms": [
+    "picor",
+    "lesion redondeada o en anillo",
+    "descamacion leve"
+  ],
+  "watchSymptoms": [
+    "zona que se extiende",
+    "aparecen mas lesiones",
+    "no mejora en 1 a 2 semanas"
+  ],
+  "alarmSymptoms": [
+    "fiebre",
+    "dolor intenso o supuracion",
+    "afectacion cerca del ojo con hinchazon"
+  ],
+  "doList": [
+    "mantener la zona limpia y seca",
+    "evitar compartir toallas",
+    "consultar para confirmar diagnostico"
+  ],
+  "avoidList": [
+    "rascarte de forma intensa",
+    "usar cremas nuevas sin indicacion",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 7", "text": "puede picar y crecer lentamente" },
+    { "period": "2 a 4 semanas", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

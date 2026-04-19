@@ -1,0 +1,36 @@
+{
+  "templateKey": "vomiting_diarrhea_child",
+  "category": "pediatrics",
+  "plainName": "vomitos y diarrea en nino",
+  "normalSymptoms": [
+    "vomitos",
+    "diarrea",
+    "cansancio",
+    "poco apetito"
+  ],
+  "watchSymptoms": [
+    "no aceptar liquidos",
+    "signos de deshidratacion leve",
+    "fiebre que persiste"
+  ],
+  "alarmSymptoms": [
+    "somnolencia marcada o confusion",
+    "sangre en heces o vomitos",
+    "dificultad para respirar o mal estado general"
+  ],
+  "doList": [
+    "ofrecer suero oral o liquidos a sorbos frecuentes",
+    "vigilar pipi, lagrimas y estado general",
+    "consultar si no mejora o hay alarma"
+  ],
+  "avoidList": [
+    "forzar a comer si vomita",
+    "bebidas azucaradas en exceso",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeras 24 a 48 horas", "text": "vomitos y diarrea pueden ser mas intensos" },
+    { "period": "Dias 3 a 7", "text": "mejora progresiva en muchos casos" }
+  ]
+}
+

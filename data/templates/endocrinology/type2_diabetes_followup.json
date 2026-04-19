@@ -1,0 +1,35 @@
+{
+  "templateKey": "type2_diabetes_followup",
+  "category": "endocrinology",
+  "plainName": "diabetes tipo 2 (seguimiento general)",
+  "normalSymptoms": [
+    "sed aumentada",
+    "orinar mas de lo habitual",
+    "cansancio"
+  ],
+  "watchSymptoms": [
+    "heridas que tardan en curar",
+    "vision borrosa repetida",
+    "infecciones frecuentes"
+  ],
+  "alarmSymptoms": [
+    "somnolencia marcada o confusion",
+    "vomitos con mal estado general",
+    "respiracion rapida o dificultad para respirar"
+  ],
+  "doList": [
+    "seguir el plan de control indicado",
+    "registrar sintomas y medidas si las haces",
+    "consultar si notas cambios importantes"
+  ],
+  "avoidList": [
+    "dejar medicacion de golpe",
+    "dietas extremas sin control",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Semanas", "text": "los cambios suelen verse con seguimiento continuo" },
+    { "period": "Meses", "text": "se ajusta el plan segun objetivos y analiticas" }
+  ]
+}
+

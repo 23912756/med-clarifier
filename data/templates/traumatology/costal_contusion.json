@@ -1,0 +1,35 @@
+{
+  "templateKey": "costal_contusion",
+  "category": "traumatology",
+  "plainName": "contusion costal",
+  "normalSymptoms": [
+    "dolor al respirar hondo",
+    "dolor al moverte o toser",
+    "molestia localizada en las costillas"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en varios dias",
+    "aumento de la falta de aire con esfuerzo",
+    "tos persistente que empeora"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "dolor de pecho intenso nuevo",
+    "desmayo o mareo intenso"
+  ],
+  "doList": [
+    "descansar y moverte con cuidado",
+    "evitar golpes y esfuerzos",
+    "consultar si hay dificultad respiratoria"
+  ],
+  "avoidList": [
+    "hacer deporte con dolor",
+    "vendar apretado el pecho",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "dolor al respirar y al moverte suele ser mayor" },
+    { "period": "1 a 4 semanas", "text": "mejora gradual segun la contusion" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "sciatica_symptoms",
+  "category": "neurology",
+  "plainName": "dolor que baja por la pierna (ciatica) sospechada",
+  "normalSymptoms": [
+    "dolor en gluteo o pierna",
+    "hormigueo leve",
+    "empeora al estar sentado"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en 1 a 2 semanas",
+    "entumecimiento que aumenta",
+    "dificultad para caminar por el dolor"
+  ],
+  "alarmSymptoms": [
+    "perdida de fuerza en la pierna o pie",
+    "perdida de control de orina o heces",
+    "dolor con fiebre o mal estado general"
+  ],
+  "doList": [
+    "moverte suave dentro de lo tolerable",
+    "evitar posturas mantenidas mucho tiempo",
+    "consultar si persiste o hay alarma"
+  ],
+  "avoidList": [
+    "reposo absoluto varios dias",
+    "cargar peso con dolor",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 7", "text": "puede fluctuar y molestar con ciertas posturas" },
+    { "period": "2 a 6 semanas", "text": "mejora progresiva en muchos casos" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "nausea_vomiting_mild",
+  "category": "gastroenterology",
+  "plainName": "nauseas y vomitos leves",
+  "normalSymptoms": [
+    "nauseas",
+    "vomitos puntuales",
+    "poco apetito"
+  ],
+  "watchSymptoms": [
+    "vomitos repetidos durante el dia",
+    "no poder retener liquidos",
+    "signos de deshidratacion leve"
+  ],
+  "alarmSymptoms": [
+    "vomitos con sangre",
+    "somnolencia marcada o confusion",
+    "dolor abdominal intenso"
+  ],
+  "doList": [
+    "beber a sorbos pequenos y frecuentes",
+    "comer ligero cuando mejore la nausea",
+    "consultar si persiste o empeora"
+  ],
+  "avoidList": [
+    "alcohol",
+    "comidas grasas o muy condimentadas",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeras 24 horas", "text": "puede ser mas intenso y variable" },
+    { "period": "2 a 3 dias", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

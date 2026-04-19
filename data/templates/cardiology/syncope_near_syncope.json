@@ -1,0 +1,36 @@
+{
+  "templateKey": "syncope_near_syncope",
+  "category": "cardiology",
+  "plainName": "desmayo o casi desmayo",
+  "normalSymptoms": [
+    "mareo intenso",
+    "vision borrosa",
+    "sudor frio",
+    "debilidad"
+  ],
+  "watchSymptoms": [
+    "episodios repetidos",
+    "palpitaciones antes del episodio",
+    "desmayo sin desencadenante claro"
+  ],
+  "alarmSymptoms": [
+    "desmayo durante esfuerzo",
+    "dolor de pecho o falta de aire",
+    "golpe en la cabeza o confusion prolongada"
+  ],
+  "doList": [
+    "sentarte o tumbarte si notas mareo",
+    "hidratarte si ha habido calor o poco liquido",
+    "consultar para valorar la causa"
+  ],
+  "avoidList": [
+    "conducir si has tenido un episodio reciente",
+    "levantarte de golpe si te mareas",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Minutos", "text": "recuperacion suele ser rapida si fue vasovagal" },
+    { "period": "Dias", "text": "si se repite, conviene estudio y seguimiento" }
+  ]
+}
+

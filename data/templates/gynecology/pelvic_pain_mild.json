@@ -1,0 +1,35 @@
+{
+  "templateKey": "pelvic_pain_mild",
+  "category": "gynecology",
+  "plainName": "dolor pelvico leve",
+  "normalSymptoms": [
+    "molestia en bajo vientre",
+    "sensacion de presion",
+    "dolor leve intermitente"
+  ],
+  "watchSymptoms": [
+    "dolor que aumenta con los dias",
+    "fiebre o malestar general",
+    "dolor durante relaciones o al orinar"
+  ],
+  "alarmSymptoms": [
+    "dolor intenso repentino",
+    "posible embarazo con dolor o sangrado",
+    "desmayo o mareo intenso"
+  ],
+  "doList": [
+    "anotar cuando aparece y que lo empeora",
+    "consultar si persiste o cambia",
+    "acudir urgente si hay alarma"
+  ],
+  "avoidList": [
+    "automedicarte con medicamentos nuevos",
+    "hacer esfuerzos intensos con dolor",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "puede fluctuar segun actividad y ciclo" },
+    { "period": "1 a 3 dias", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

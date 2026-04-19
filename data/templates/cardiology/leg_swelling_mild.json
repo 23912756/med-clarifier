@@ -1,0 +1,35 @@
+{
+  "templateKey": "leg_swelling_mild",
+  "category": "cardiology",
+  "plainName": "hinchazon leve de pierna o tobillo",
+  "normalSymptoms": [
+    "hinchazon al final del dia",
+    "pesadez en piernas",
+    "marcas de calcetines"
+  ],
+  "watchSymptoms": [
+    "hinchazon que va a mas con los dias",
+    "dolor o calor en una sola pierna",
+    "falta de aire leve asociada"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "dolor de pecho",
+    "hinchazon brusca de una sola pierna con dolor"
+  ],
+  "doList": [
+    "elevar las piernas cuando puedas",
+    "anotar si es una pierna o ambas",
+    "consultar si persiste o hay alarma"
+  ],
+  "avoidList": [
+    "estar muchas horas sin moverte",
+    "apretar con vendajes si duele o empeora",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias", "text": "puede variar segun actividad y calor" },
+    { "period": "1 a 2 semanas", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

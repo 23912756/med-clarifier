@@ -1,0 +1,35 @@
+{
+  "templateKey": "hoarseness_laryngitis",
+  "category": "ent",
+  "plainName": "afonia o ronquera (laringitis)",
+  "normalSymptoms": [
+    "voz ronca",
+    "dolor o sequedad en la garganta",
+    "tos leve"
+  ],
+  "watchSymptoms": [
+    "ronquera que dura mas de 2 semanas",
+    "dolor al tragar que aumenta",
+    "fiebre que aparece o persiste"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "babear o no poder tragar",
+    "empeoramiento rapido con mal estado general"
+  ],
+  "doList": [
+    "descansar la voz lo posible",
+    "hidratarte con frecuencia",
+    "consultar si persiste o preocupa"
+  ],
+  "avoidList": [
+    "forzar la voz",
+    "fumar o exponerte a humo",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "ronquera y molestias pueden ser mayores" },
+    { "period": "Dias 4 a 10", "text": "mejora progresiva en muchos casos" }
+  ]
+}
+

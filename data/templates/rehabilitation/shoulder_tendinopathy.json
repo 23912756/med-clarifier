@@ -1,0 +1,35 @@
+{
+  "templateKey": "shoulder_tendinopathy",
+  "category": "rehabilitation",
+  "plainName": "tendinopatia de hombro",
+  "normalSymptoms": [
+    "dolor al levantar el brazo",
+    "molestia al dormir sobre el hombro",
+    "rigidez leve"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en 1 a 2 semanas",
+    "limitacion progresiva del movimiento",
+    "dolor nocturno cada vez mayor"
+  ],
+  "alarmSymptoms": [
+    "debilidad marcada repentina",
+    "fiebre con dolor e hinchazon",
+    "traumatismo importante reciente"
+  ],
+  "doList": [
+    "ajustar actividades para no forzar",
+    "mantener movilidad suave segun tolerancia",
+    "consultar para plan de ejercicios si persiste"
+  ],
+  "avoidList": [
+    "hacer ejercicios dolorosos intensos",
+    "cargar peso por encima de la cabeza si duele",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeras 1 a 2 semanas", "text": "dolor puede variar segun actividad" },
+    { "period": "3 a 8 semanas", "text": "suele mejorar con plan y constancia" }
+  ]
+}
+

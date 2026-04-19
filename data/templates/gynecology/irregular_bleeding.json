@@ -1,0 +1,35 @@
+{
+  "templateKey": "irregular_bleeding",
+  "category": "gynecology",
+  "plainName": "sangrado vaginal irregular",
+  "normalSymptoms": [
+    "manchado leve",
+    "cambio en el patron de sangrado",
+    "dolor leve tipo colico"
+  ],
+  "watchSymptoms": [
+    "sangrado que se repite varios ciclos",
+    "dolor que aumenta",
+    "cansancio marcado"
+  ],
+  "alarmSymptoms": [
+    "sangrado muy abundante con mareo",
+    "posible embarazo con dolor o sangrado",
+    "dolor intenso repentino"
+  ],
+  "doList": [
+    "anotar dias y cantidad aproximada",
+    "consultar para valorar la causa",
+    "acudir urgente si hay mareo o sangrado muy abundante"
+  ],
+  "avoidList": [
+    "ignorar cambios importantes",
+    "automedicarte con hormonas sin control",
+    "posponer consulta si hay sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias", "text": "puede fluctuar segun ciclo y estres" },
+    { "period": "Semanas", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "nonspecific_neck_pain",
+  "category": "rehabilitation",
+  "plainName": "cervicalgia aguda",
+  "normalSymptoms": [
+    "dolor en el cuello",
+    "rigidez al girar la cabeza",
+    "molestia en hombros o parte alta de la espalda"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en 1 a 2 semanas",
+    "dolor que baja por el brazo",
+    "hormigueo leve en mano o dedos"
+  ],
+  "alarmSymptoms": [
+    "debilidad marcada en brazo o mano",
+    "fiebre con dolor de cuello",
+    "dolor tras golpe importante"
+  ],
+  "doList": [
+    "mover el cuello suave dentro de lo tolerable",
+    "evitar posturas mantenidas mucho tiempo",
+    "consultar si persiste o hay alarma"
+  ],
+  "avoidList": [
+    "reposo absoluto prolongado",
+    "movimientos bruscos repetidos",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "dolor y rigidez suelen ser mayores" },
+    { "period": "1 a 3 semanas", "text": "mejora progresiva en muchos casos" }
+  ]
+}
+

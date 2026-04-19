@@ -1,0 +1,35 @@
+{
+  "templateKey": "foreign_body_sensation",
+  "category": "ophthalmology",
+  "plainName": "sensacion de cuerpo extrano en el ojo",
+  "normalSymptoms": [
+    "molestia como arena",
+    "lagrimeo",
+    "ojo rojo leve"
+  ],
+  "watchSymptoms": [
+    "molestia que no mejora en pocas horas",
+    "dolor que aumenta",
+    "sensibilidad a la luz"
+  ],
+  "alarmSymptoms": [
+    "bajada de vision",
+    "dolor intenso",
+    "traumatismo ocular o producto quimico"
+  ],
+  "doList": [
+    "no frotar el ojo",
+    "lavar manos y evitar manipular",
+    "consultar si persiste o hay alarma"
+  ],
+  "avoidList": [
+    "intentar sacar algo con objetos",
+    "usar lentes de contacto si molesta",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "puede mejorar si era irritacion leve" },
+    { "period": "24 horas", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

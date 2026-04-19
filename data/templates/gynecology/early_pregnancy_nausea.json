@@ -1,0 +1,35 @@
+{
+  "templateKey": "early_pregnancy_nausea",
+  "category": "gynecology",
+  "plainName": "nauseas en embarazo temprano",
+  "normalSymptoms": [
+    "nauseas por la manana o durante el dia",
+    "sensibilidad a olores",
+    "poco apetito"
+  ],
+  "watchSymptoms": [
+    "vomitos frecuentes",
+    "no poder beber liquidos",
+    "perdida de peso o debilidad"
+  ],
+  "alarmSymptoms": [
+    "dolor abdominal fuerte",
+    "sangrado importante",
+    "mareo intenso o desmayo"
+  ],
+  "doList": [
+    "comer porciones pequenas varias veces",
+    "beber a sorbos frecuentes",
+    "consultar si vomitas mucho o no toleras liquidos"
+  ],
+  "avoidList": [
+    "saltarte comidas muchas horas",
+    "olores fuertes si te empeoran",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Semanas 5 a 9", "text": "las nauseas pueden ser mas intensas" },
+    { "period": "Semanas 10 a 14", "text": "en muchos casos mejoran progresivamente" }
+  ]
+}
+

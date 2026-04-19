@@ -1,0 +1,35 @@
+{
+  "templateKey": "tennis_elbow_epicondylitis",
+  "category": "rehabilitation",
+  "plainName": "dolor en el codo por sobreuso (epicondilitis)",
+  "normalSymptoms": [
+    "dolor en la parte externa del codo",
+    "molestia al agarrar o levantar objetos",
+    "dolor con movimientos repetidos"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en 2 a 3 semanas",
+    "debilidad para agarrar objetos",
+    "dolor nocturno que aumenta"
+  ],
+  "alarmSymptoms": [
+    "dolor tras golpe importante",
+    "hinchazon importante con calor y fiebre",
+    "perdida brusca de fuerza"
+  ],
+  "doList": [
+    "reducir actividades que lo empeoran",
+    "alternar pausas y tareas para no forzar",
+    "consultar para plan de ejercicios si persiste"
+  ],
+  "avoidList": [
+    "seguir con movimientos repetidos con dolor",
+    "cargar peso con el brazo dolorido",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Semanas 1 a 2", "text": "el dolor suele relacionarse con actividad" },
+    { "period": "Semanas 3 a 8", "text": "mejora gradual con ajustes y plan" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "migraine_suspected",
+  "category": "neurology",
+  "plainName": "migraña sospechada",
+  "normalSymptoms": [
+    "dolor de cabeza moderado o intenso",
+    "molestia con la luz o el ruido",
+    "nauseas"
+  ],
+  "watchSymptoms": [
+    "episodios mas frecuentes",
+    "dolor que dura mas de 72 horas",
+    "dolor que cambia de patron"
+  ],
+  "alarmSymptoms": [
+    "dolor de cabeza muy intenso y repentino",
+    "debilidad, dificultad para hablar o ver",
+    "fiebre con rigidez de cuello"
+  ],
+  "doList": [
+    "descansar en un lugar oscuro y tranquilo",
+    "hidratarte y comer algo ligero si lo toleras",
+    "consultar si se repite o cambia mucho"
+  ],
+  "avoidList": [
+    "saltarte comidas o dormir poco",
+    "exponerte a pantallas si empeora",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "puede aumentar y luego bajar de forma progresiva" },
+    { "period": "1 a 3 dias", "text": "si dura mucho o se repite, conviene plan" }
+  ]
+}
+

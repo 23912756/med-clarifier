@@ -1,0 +1,35 @@
+{
+  "templateKey": "thyroid_nodule_concern",
+  "category": "endocrinology",
+  "plainName": "bulto en el cuello (tiroides) para valorar",
+  "normalSymptoms": [
+    "bulto o sensacion de masa en el cuello",
+    "molestia leve al tragar",
+    "sensacion de presion local"
+  ],
+  "watchSymptoms": [
+    "bulto que crece con las semanas",
+    "ronquera que no mejora",
+    "tos persistente sin resfriado"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "dificultad marcada para tragar",
+    "bulto duro con crecimiento rapido"
+  ],
+  "doList": [
+    "anotar desde cuando lo notas y si cambia",
+    "pedir valoracion medica y pruebas si indican",
+    "acudir antes si hay sintomas de alarma"
+  ],
+  "avoidList": [
+    "presionar o manipular el bulto con frecuencia",
+    "posponer consulta si crece o hay ronquera",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Semanas", "text": "la valoracion suele incluir exploracion y pruebas" },
+    { "period": "Meses", "text": "seguimiento segun resultados y evolucion" }
+  ]
+}
+

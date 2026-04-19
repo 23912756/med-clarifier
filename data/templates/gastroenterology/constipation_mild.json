@@ -1,0 +1,35 @@
+{
+  "templateKey": "constipation_mild",
+  "category": "gastroenterology",
+  "plainName": "estrenimiento leve",
+  "normalSymptoms": [
+    "menos deposiciones de lo habitual",
+    "heces duras",
+    "hinchazon abdominal leve"
+  ],
+  "watchSymptoms": [
+    "dolor abdominal que aumenta",
+    "estrenimiento que dura mas de 1 semana",
+    "sangre al limpiarte"
+  ],
+  "alarmSymptoms": [
+    "dolor abdominal intenso y continuo",
+    "vomitos repetidos",
+    "no poder expulsar gases con distension marcada"
+  ],
+  "doList": [
+    "beber liquidos con regularidad",
+    "aumentar fibra de forma gradual si lo toleras",
+    "consultar si se repite o no mejora"
+  ],
+  "avoidList": [
+    "cambiar laxantes o suplementos sin control",
+    "aguantar ganas de ir al bano",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "puede variar segun dieta y rutina" },
+    { "period": "1 a 2 semanas", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

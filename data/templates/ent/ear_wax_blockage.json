@@ -1,0 +1,35 @@
+{
+  "templateKey": "ear_wax_blockage",
+  "category": "ent",
+  "plainName": "tapon de cera en el oido",
+  "normalSymptoms": [
+    "sensacion de oido tapado",
+    "bajada de audicion",
+    "zumbido leve"
+  ],
+  "watchSymptoms": [
+    "dolor que aparece",
+    "mareo leve asociado",
+    "secrecion por el oido"
+  ],
+  "alarmSymptoms": [
+    "dolor intenso",
+    "fiebre",
+    "bajada de audicion brusca"
+  ],
+  "doList": [
+    "consultar para revision si molesta",
+    "evitar introducir objetos en el oido",
+    "anotar si hay dolor o secrecion"
+  ],
+  "avoidList": [
+    "usar bastoncillos dentro del oido",
+    "intentar sacar la cera con objetos",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias", "text": "la sensacion de tapon puede ser continua" },
+    { "period": "1 a 2 semanas", "text": "si persiste, conviene retirada segura" }
+  ]
+}
+

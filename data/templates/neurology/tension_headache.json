@@ -1,0 +1,35 @@
+{
+  "templateKey": "tension_headache",
+  "category": "neurology",
+  "plainName": "dolor de cabeza tipo tension",
+  "normalSymptoms": [
+    "dolor opresivo leve o moderado",
+    "molestia en sienes o nuca",
+    "sensacion de cuello cargado"
+  ],
+  "watchSymptoms": [
+    "dolor que dura muchos dias",
+    "aumento claro de intensidad",
+    "dolor que interfiere con el sueno"
+  ],
+  "alarmSymptoms": [
+    "dolor de cabeza muy intenso y repentino",
+    "fiebre con rigidez de cuello",
+    "debilidad, dificultad para hablar o ver"
+  ],
+  "doList": [
+    "descansar y dormir lo posible",
+    "hidratarte y comer de forma regular",
+    "reducir pantallas y estres si es posible"
+  ],
+  "avoidList": [
+    "saltarte comidas o dormir poco varios dias",
+    "forzar el cuello con mala postura",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas a 2 dias", "text": "suele mejorar con descanso y rutina" },
+    { "period": "1 semana", "text": "si se repite, conviene revisar desencadenantes" }
+  ]
+}
+

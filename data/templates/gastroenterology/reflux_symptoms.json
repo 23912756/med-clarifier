@@ -1,0 +1,35 @@
+{
+  "templateKey": "reflux_symptoms",
+  "category": "gastroenterology",
+  "plainName": "acidez y reflujo",
+  "normalSymptoms": [
+    "ardor en el pecho despues de comer",
+    "regusto amargo en la boca",
+    "sensacion de pesadez"
+  ],
+  "watchSymptoms": [
+    "sintomas frecuentes varios dias por semana",
+    "tos nocturna o carraspera repetida",
+    "dolor al tragar"
+  ],
+  "alarmSymptoms": [
+    "dificultad para tragar que empeora",
+    "vomitos con sangre o heces negras",
+    "perdida de peso sin explicacion"
+  ],
+  "doList": [
+    "comer porciones mas pequenas y evitar acostarte justo despues",
+    "identificar comidas que lo empeoran",
+    "consultar si es persistente"
+  ],
+  "avoidList": [
+    "cenas copiosas",
+    "acostarte inmediatamente despues de comer",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias iniciales", "text": "puede variar segun comidas y horarios" },
+    { "period": "Semanas", "text": "si es frecuente, conviene valoracion y plan" }
+  ]
+}
+

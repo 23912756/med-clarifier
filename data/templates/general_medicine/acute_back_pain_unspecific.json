@@ -1,0 +1,35 @@
+{
+  "templateKey": "acute_back_pain_unspecific",
+  "category": "general_medicine",
+  "plainName": "dolor de espalda agudo inespecifico",
+  "normalSymptoms": [
+    "dolor al moverte",
+    "rigidez",
+    "mejora parcial con reposo relativo"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en 1 a 2 semanas",
+    "dolor que baja por la pierna",
+    "limitacion creciente para actividades"
+  ],
+  "alarmSymptoms": [
+    "perdida de fuerza en una pierna",
+    "perdida de control de orina o heces",
+    "fiebre con dolor de espalda"
+  ],
+  "doList": [
+    "moverte suave dentro de lo tolerable",
+    "evitar posturas mantenidas mucho tiempo",
+    "consultar si persiste o hay alarma"
+  ],
+  "avoidList": [
+    "reposo absoluto varios dias",
+    "cargar peso de forma brusca",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "dolor y rigidez suelen ser mas intensos" },
+    { "period": "1 a 3 semanas", "text": "mejora progresiva en muchos casos" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "chest_pain_noncardiac_suspected",
+  "category": "cardiology",
+  "plainName": "dolor de pecho no opresivo (para valorar)",
+  "normalSymptoms": [
+    "dolor localizado que cambia con postura",
+    "molestia que aumenta al tocar la zona",
+    "ansiedad asociada"
+  ],
+  "watchSymptoms": [
+    "dolor que se repite con frecuencia",
+    "dolor que aparece con esfuerzo",
+    "sensacion de falta de aire leve"
+  ],
+  "alarmSymptoms": [
+    "dolor opresivo en el centro del pecho",
+    "dificultad para respirar importante",
+    "sudor frio con malestar intenso"
+  ],
+  "doList": [
+    "descansar y observar la evolucion",
+    "anotar cuando aparece y cuanto dura",
+    "consultar si se repite o preocupa"
+  ],
+  "avoidList": [
+    "hacer esfuerzo intenso si duele",
+    "consumir estimulantes si empeora",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "puede fluctuar segun postura y movimiento" },
+    { "period": "Dias", "text": "si se repite, conviene valoracion" }
+  ]
+}
+

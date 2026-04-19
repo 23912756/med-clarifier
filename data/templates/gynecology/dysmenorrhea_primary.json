@@ -1,0 +1,35 @@
+{
+  "templateKey": "dysmenorrhea_primary",
+  "category": "gynecology",
+  "plainName": "dolor menstrual",
+  "normalSymptoms": [
+    "dolor tipo colico en bajo vientre",
+    "dolor lumbar leve",
+    "cansancio"
+  ],
+  "watchSymptoms": [
+    "dolor que empeora con los ciclos",
+    "sangrado mas abundante de lo habitual",
+    "dolor fuera de la regla"
+  ],
+  "alarmSymptoms": [
+    "sangrado muy abundante con mareo",
+    "dolor intenso repentino",
+    "posible embarazo con dolor o sangrado"
+  ],
+  "doList": [
+    "descansar y usar calor local si ayuda",
+    "anotar patron de dolor y sangrado",
+    "consultar si cambia mucho respecto a lo habitual"
+  ],
+  "avoidList": [
+    "hacer esfuerzos intensos si te sientes mal",
+    "ignorar sintomas de alarma",
+    "automedicarte con medicamentos nuevos sin consultar"
+  ],
+  "timeline": [
+    { "period": "Inicio de la regla", "text": "el dolor puede ser mayor en las primeras 24 a 48 horas" },
+    { "period": "Dias siguientes", "text": "suele mejorar gradualmente" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "acne_mild",
+  "category": "dermatology",
+  "plainName": "acne leve",
+  "normalSymptoms": [
+    "granitos o puntos negros",
+    "piel grasa",
+    "enrojecimiento leve"
+  ],
+  "watchSymptoms": [
+    "lesiones que dejan marca o dolor profundo",
+    "empeoramiento rapido",
+    "irritacion por productos"
+  ],
+  "alarmSymptoms": [
+    "hinchazon importante de la cara",
+    "dolor intenso con fiebre",
+    "reaccion alergica con dificultad para respirar"
+  ],
+  "doList": [
+    "limpieza suave y constante",
+    "evitar tocar o exprimir granos",
+    "consultar si empeora o deja cicatriz"
+  ],
+  "avoidList": [
+    "usar muchos productos a la vez",
+    "exprimir lesiones",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Semanas", "text": "la mejoria suele ser gradual con constancia" },
+    { "period": "Meses", "text": "si no mejora, conviene ajustar el plan" }
+  ]
+}
+

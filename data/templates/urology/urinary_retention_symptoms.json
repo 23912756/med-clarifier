@@ -1,0 +1,35 @@
+{
+  "templateKey": "urinary_retention_symptoms",
+  "category": "urology",
+  "plainName": "dificultad para orinar",
+  "normalSymptoms": [
+    "chorro debil",
+    "tardar en empezar a orinar",
+    "sensacion de vaciado incompleto"
+  ],
+  "watchSymptoms": [
+    "dolor en bajo vientre",
+    "aumento claro de la dificultad",
+    "orinar muy poco en el dia"
+  ],
+  "alarmSymptoms": [
+    "no poder orinar nada",
+    "dolor intenso en bajo vientre",
+    "fiebre con mal estado general"
+  ],
+  "doList": [
+    "consultar pronto si es nuevo o empeora",
+    "anotar frecuencia y cantidad aproximada",
+    "acudir urgente si no puedes orinar"
+  ],
+  "avoidList": [
+    "aguantar muchas horas con ganas",
+    "consumir alcohol si empeora",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "puede empeorar y requiere vigilancia" },
+    { "period": "1 a 2 dias", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

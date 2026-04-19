@@ -1,0 +1,36 @@
+{
+  "templateKey": "viral_upper_respiratory_infection",
+  "category": "respiratory",
+  "plainName": "infeccion respiratoria alta viral",
+  "normalSymptoms": [
+    "mocos",
+    "tos",
+    "dolor de garganta leve",
+    "cansancio"
+  ],
+  "watchSymptoms": [
+    "fiebre que persiste mas de 2 a 3 dias",
+    "tos que empeora con los dias",
+    "dolor de pecho al respirar"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "empeoramiento claro del estado general",
+    "confusion o somnolencia marcada"
+  ],
+  "doList": [
+    "descansar e hidratarte",
+    "ventilar la habitacion y evitar humo",
+    "consultar si empeora o hay dudas"
+  ],
+  "avoidList": [
+    "hacer esfuerzos intensos si te falta el aire",
+    "fumar",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "mocos y malestar suelen ser mayores" },
+    { "period": "Dias 4 a 10", "text": "mejora progresiva, la tos puede durar mas" }
+  ]
+}
+

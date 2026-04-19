@@ -1,0 +1,35 @@
+{
+  "templateKey": "testicular_pain_mild",
+  "category": "urology",
+  "plainName": "dolor testicular leve",
+  "normalSymptoms": [
+    "molestia en un testiculo",
+    "sensacion de peso",
+    "dolor leve al moverte"
+  ],
+  "watchSymptoms": [
+    "dolor que aumenta con las horas",
+    "hinchazon que aparece",
+    "fiebre o malestar"
+  ],
+  "alarmSymptoms": [
+    "dolor intenso repentino",
+    "testiculo muy alto o girado",
+    "vomitos con dolor fuerte"
+  ],
+  "doList": [
+    "descansar y evitar esfuerzo",
+    "consultar pronto para revisar la causa",
+    "acudir urgente si aparece alarma"
+  ],
+  "avoidList": [
+    "esperar muchos dias si empeora",
+    "hacer deporte con dolor",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "es importante vigilar si empeora" },
+    { "period": "1 a 2 dias", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

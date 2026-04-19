@@ -1,0 +1,36 @@
+{
+  "templateKey": "anxiety_stress_symptoms",
+  "category": "general_medicine",
+  "plainName": "sintomas de ansiedad o estres",
+  "normalSymptoms": [
+    "nervios o inquietud",
+    "tension muscular",
+    "dificultad para dormir",
+    "palpitaciones leves"
+  ],
+  "watchSymptoms": [
+    "sintomas diarios que no mejoran",
+    "sensacion de falta de aire repetida",
+    "dolor de estomago o nauseas frecuentes"
+  ],
+  "alarmSymptoms": [
+    "dolor de pecho opresivo",
+    "desmayo o perdida de conocimiento",
+    "ideas de hacerte dano"
+  ],
+  "doList": [
+    "identificar desencadenantes y rutinas",
+    "hablar con un profesional si interfiere con tu vida",
+    "buscar apoyo en personas de confianza"
+  ],
+  "avoidList": [
+    "aislarte si te sientes peor",
+    "aumentar alcohol o estimulantes",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias iniciales", "text": "puede fluctuar segun estres y descanso" },
+    { "period": "Semanas", "text": "con apoyo y plan, suele mejorar de forma progresiva" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "knee_contusion",
+  "category": "traumatology",
+  "plainName": "contusion de rodilla",
+  "normalSymptoms": [
+    "dolor al apoyar o flexionar",
+    "moraton",
+    "inflamacion leve"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en varios dias",
+    "hinchazon que aumenta",
+    "sensacion de inestabilidad"
+  ],
+  "alarmSymptoms": [
+    "incapacidad para apoyar",
+    "deformidad o bloqueo de la rodilla",
+    "dolor muy intenso con empeoramiento"
+  ],
+  "doList": [
+    "reposo relativo segun tolerancia",
+    "elevar la pierna si hay hinchazon",
+    "consultar si no mejora o hay duda"
+  ],
+  "avoidList": [
+    "hacer deporte con dolor",
+    "forzar flexion profunda",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "dolor y moraton suelen ser mas visibles" },
+    { "period": "Dias 4 a 14", "text": "mejora progresiva segun la contusion" }
+  ]
+}
+

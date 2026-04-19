@@ -1,0 +1,33 @@
+{
+  "templateKey": "distal_ulna_fracture_nondisplaced",
+  "category": "traumatology",
+  "plainName": "fractura distal de cubito no desplazada",
+  "normalSymptoms": [
+    "dolor moderado",
+    "inflamacion leve o moderada",
+    "molestia al mover la zona"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora",
+    "hinchazon persistente"
+  ],
+  "alarmSymptoms": [
+    "perdida de sensibilidad",
+    "dedos frios o morados",
+    "dolor muy intenso"
+  ],
+  "doList": [
+    "seguir la inmovilizacion indicada",
+    "descansar la zona",
+    "vigilar la evolucion"
+  ],
+  "avoidList": [
+    "cargar peso",
+    "retirar la ferula sin indicacion",
+    "hacer esfuerzos"
+  ],
+  "timeline": [
+    { "period": "Dias 1-3", "text": "dolor e inflamacion iniciales" },
+    { "period": "Dias 4-10", "text": "mejora progresiva" }
+  ]
+}

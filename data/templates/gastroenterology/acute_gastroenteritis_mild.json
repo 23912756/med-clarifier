@@ -1,0 +1,36 @@
+{
+  "templateKey": "acute_gastroenteritis_mild",
+  "category": "gastroenterology",
+  "plainName": "gastroenteritis aguda leve",
+  "normalSymptoms": [
+    "diarrea",
+    "dolor abdominal tipo retortijon",
+    "nauseas",
+    "cansancio"
+  ],
+  "watchSymptoms": [
+    "diarrea que no mejora en 2 a 3 dias",
+    "vomitos repetidos",
+    "signos de deshidratacion leve"
+  ],
+  "alarmSymptoms": [
+    "sangre en heces",
+    "dolor abdominal intenso y continuo",
+    "somnolencia marcada o confusion"
+  ],
+  "doList": [
+    "beber liquidos a sorbos frecuentes",
+    "comer ligero segun tolerancia",
+    "consultar si empeora o hay dudas"
+  ],
+  "avoidList": [
+    "alcohol y comidas muy grasas",
+    "forzarte a comer si vomitas",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primeras 24 a 48 horas", "text": "diarrea y malestar pueden ser mas intensos" },
+    { "period": "Dias 3 a 7", "text": "en la mayoria mejora de forma progresiva" }
+  ]
+}
+

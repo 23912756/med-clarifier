@@ -1,0 +1,35 @@
+{
+  "templateKey": "hypertension_uncomplicated",
+  "category": "cardiology",
+  "plainName": "presion arterial alta sin complicaciones",
+  "normalSymptoms": [
+    "a veces no da sintomas",
+    "dolor de cabeza leve",
+    "sensacion de tension o nervios"
+  ],
+  "watchSymptoms": [
+    "mareo que se repite",
+    "dolor de cabeza que no mejora",
+    "vision borrosa ocasional"
+  ],
+  "alarmSymptoms": [
+    "dolor de pecho",
+    "dificultad para respirar",
+    "debilidad o adormecimiento de un lado"
+  ],
+  "doList": [
+    "medir la presion como te indicaron",
+    "anotar valores y sintomas",
+    "seguir el plan de tu medico"
+  ],
+  "avoidList": [
+    "cambiar o suspender medicacion por tu cuenta",
+    "consumir mucha sal si te lo han recomendado evitar",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Semanas iniciales", "text": "ajuste de habitos y seguimiento de valores" },
+    { "period": "Meses", "text": "control progresivo con revisiones segun indicacion" }
+  ]
+}
+

@@ -1,0 +1,27 @@
+<svg width="420" height="96" viewBox="0 0 420 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="28" y1="16" x2="84" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.55" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mark -->
+  <g transform="translate(18,16)">
+    <path d="M32 0C14.3269 0 0 14.3269 0 32C0 49.6731 14.3269 64 32 64C49.6731 64 64 49.6731 64 32C64 14.3269 49.6731 0 32 0Z" fill="url(#g)"/>
+    <path d="M22.5 18.5C22.5 15.7386 24.7386 13.5 27.5 13.5H36.5C39.2614 13.5 41.5 15.7386 41.5 18.5V27.5H50.5C53.2614 27.5 55.5 29.7386 55.5 32.5V41.5C55.5 44.2614 53.2614 46.5 50.5 46.5H41.5V55.5C41.5 58.2614 39.2614 60.5 36.5 60.5H27.5C24.7386 60.5 22.5 58.2614 22.5 55.5V46.5H13.5C10.7386 46.5 8.5 44.2614 8.5 41.5V32.5C8.5 29.7386 10.7386 27.5 13.5 27.5H22.5V18.5Z" fill="white" opacity="0.92"/>
+    <path d="M16 43.5C24.5 35.5 29 41.5 36 34C42 27.5 45.5 29.5 49 25" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  </g>
+
+  <!-- Wordmark -->
+  <g transform="translate(104,18)">
+    <text x="0" y="44" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="44" font-weight="700" fill="url(#g2)">Clarifier</text>
+    <text x="2" y="66" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="13" font-weight="500" fill="#64748B">Fichas claras para el paciente</text>
+  </g>
+</svg>
+

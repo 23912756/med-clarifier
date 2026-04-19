@@ -1,0 +1,35 @@
+{
+  "templateKey": "asthma_mild_exacerbation",
+  "category": "respiratory",
+  "plainName": "asma con empeoramiento leve",
+  "normalSymptoms": [
+    "tos",
+    "pitidos leves al respirar",
+    "opresion ligera en el pecho"
+  ],
+  "watchSymptoms": [
+    "necesidad de usar mas medicacion de rescate",
+    "tos nocturna repetida",
+    "molestia respiratoria que aumenta"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar importante",
+    "labios o dedos azulados",
+    "no poder hablar frases completas"
+  ],
+  "doList": [
+    "seguir tu plan de asma si lo tienes",
+    "evitar desencadenantes si los identificas",
+    "consultar si no mejora o se repite"
+  ],
+  "avoidList": [
+    "hacer ejercicio intenso si hay falta de aire",
+    "exponerte a humo o irritantes",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "puede variar segun desencadenantes y esfuerzo" },
+    { "period": "1 a 3 dias", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

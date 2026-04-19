@@ -1,0 +1,35 @@
+{
+  "templateKey": "urticaria_mild",
+  "category": "dermatology",
+  "plainName": "urticaria leve",
+  "normalSymptoms": [
+    "ronchas que pican",
+    "lesiones que cambian de lugar",
+    "enrojecimiento de la piel"
+  ],
+  "watchSymptoms": [
+    "ronchas que duran varios dias sin mejorar",
+    "hinchazon local que aumenta",
+    "malestar general asociado"
+  ],
+  "alarmSymptoms": [
+    "hinchazon de lengua o garganta",
+    "dificultad para respirar",
+    "mareo intenso o desmayo"
+  ],
+  "doList": [
+    "evitar el posible desencadenante si lo identificas",
+    "ropa holgada y evitar calor excesivo",
+    "consultar si se repite o persiste"
+  ],
+  "avoidList": [
+    "rascarte de forma intensa",
+    "probar muchos productos nuevos en la piel",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas a 2 dias", "text": "puede aparecer y desaparecer en brotes" },
+    { "period": "3 a 7 dias", "text": "si persiste, conviene valoracion" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "peripheral_facial_palsy_suspected",
+  "category": "neurology",
+  "plainName": "debilidad facial de un lado (para valorar)",
+  "normalSymptoms": [
+    "dificultad para mover un lado de la cara",
+    "ojo que no cierra bien",
+    "sensacion rara en la cara"
+  ],
+  "watchSymptoms": [
+    "dolor alrededor de la oreja",
+    "sequedad o lagrimeo en el ojo",
+    "dificultad para comer o hablar"
+  ],
+  "alarmSymptoms": [
+    "debilidad en brazo o pierna",
+    "dificultad para hablar o ver",
+    "confusion o dolor de cabeza intenso"
+  ],
+  "doList": [
+    "consultar pronto para valorar la causa",
+    "anotar hora de inicio y evolucion",
+    "acudir urgente si hay sintomas de alarma"
+  ],
+  "avoidList": [
+    "esperar varios dias si empeora",
+    "conducir si hay mareo o confusion",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "la valoracion temprana es importante" },
+    { "period": "Semanas", "text": "seguimiento segun diagnostico y evolucion" }
+  ]
+}
+

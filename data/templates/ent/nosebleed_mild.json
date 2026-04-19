@@ -1,0 +1,35 @@
+{
+  "templateKey": "nosebleed_mild",
+  "category": "ent",
+  "plainName": "sangrado nasal leve",
+  "normalSymptoms": [
+    "sangrado por una fosa nasal",
+    "sabor a sangre en la garganta",
+    "nariz irritada o seca"
+  ],
+  "watchSymptoms": [
+    "sangrados repetidos en pocos dias",
+    "sangrado que tarda en parar",
+    "mareo leve"
+  ],
+  "alarmSymptoms": [
+    "sangrado abundante que no para",
+    "desmayo o debilidad marcada",
+    "sangrado tras golpe importante"
+  ],
+  "doList": [
+    "mantener calma y sentarte inclinado hacia delante",
+    "presionar la parte blanda de la nariz",
+    "consultar si se repite o preocupa"
+  ],
+  "avoidList": [
+    "echar la cabeza hacia atras",
+    "sonarte fuerte justo despues",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Minutos", "text": "suele parar con presion mantenida" },
+    { "period": "Dias siguientes", "text": "puede repetirse si hay sequedad o irritacion" }
+  ]
+}
+

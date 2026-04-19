@@ -1,0 +1,55 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+datasource db {
+  provider = "sqlite"
+}
+
+model PatientCase {
+  id             String                    @id @default(cuid())
+  patientName    String
+  age            Int
+  language       String                    @default("es")
+  rawDiagnosis   String
+  doctorNotes    String?
+  createdAt      DateTime                  @default(now())
+
+  interpretation DiagnosisInterpretation?
+  document       GeneratedDocument?
+  medicationPlan MedicationPlan[]
+}
+
+model DiagnosisInterpretation {
+  id          String      @id @default(cuid())
+  caseId      String      @unique
+  category    String
+  subcategory String
+  severity    String?
+  bodyPart    String?
+  templateKey String
+
+  patientCase PatientCase @relation(fields: [caseId], references: [id], onDelete: Cascade)
+}
+
+model GeneratedDocument {
+  id             String      @id @default(cuid())
+  caseId         String      @unique
+  structuredJson String
+  html           String?
+  pdfPath        String?
+  status         String      @default("draft")
+
+  patientCase PatientCase @relation(fields: [caseId], references: [id], onDelete: Cascade)
+}
+
+model MedicationPlan {
+  id           String      @id @default(cuid())
+  caseId       String
+  drugName     String
+  dose         String?
+  frequency    String
+  durationDays Int
+
+  patientCase PatientCase @relation(fields: [caseId], references: [id], onDelete: Cascade)
+}

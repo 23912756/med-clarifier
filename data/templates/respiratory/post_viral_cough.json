@@ -1,0 +1,35 @@
+{
+  "templateKey": "post_viral_cough",
+  "category": "respiratory",
+  "plainName": "tos persistente tras un resfriado",
+  "normalSymptoms": [
+    "tos seca o con poca mucosidad",
+    "carraspera",
+    "molestia en el pecho al toser"
+  ],
+  "watchSymptoms": [
+    "tos que empeora en lugar de mejorar",
+    "fiebre que reaparece",
+    "silbidos al respirar"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "tos con sangre",
+    "dolor de pecho intenso"
+  ],
+  "doList": [
+    "hidratarte y descansar",
+    "evitar humo y aire muy frio",
+    "consultar si se prolonga o preocupa"
+  ],
+  "avoidList": [
+    "fumar",
+    "hacer esfuerzos intensos si te falta el aire",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "1 a 2 semanas", "text": "la tos puede persistir aunque el resto mejore" },
+    { "period": "3 a 6 semanas", "text": "si continua, conviene valoracion" }
+  ]
+}
+

@@ -1,0 +1,36 @@
+{
+  "templateKey": "viral_fever_adult",
+  "category": "general_medicine",
+  "plainName": "fiebre por cuadro viral en adulto",
+  "normalSymptoms": [
+    "fiebre",
+    "dolor muscular",
+    "cansancio",
+    "dolor de cabeza leve"
+  ],
+  "watchSymptoms": [
+    "fiebre que dura mas de 3 dias",
+    "empeoramiento del estado general",
+    "dolor de garganta o tos que aumenta"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "confusion o somnolencia marcada",
+    "dolor de pecho"
+  ],
+  "doList": [
+    "hidratarte y descansar",
+    "vigilar temperatura y sintomas",
+    "consultar si persiste o empeora"
+  ],
+  "avoidList": [
+    "hacer esfuerzos intensos",
+    "consumir alcohol si te encuentras mal",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 2", "text": "fiebre y malestar pueden ser mayores" },
+    { "period": "Dias 3 a 7", "text": "mejora progresiva en la mayoria" }
+  ]
+}
+

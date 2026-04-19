@@ -1,0 +1,35 @@
+{
+  "templateKey": "abdominal_pain_unspecific",
+  "category": "gastroenterology",
+  "plainName": "dolor abdominal inespecifico",
+  "normalSymptoms": [
+    "dolor leve o moderado en el abdomen",
+    "hinchazon o gases",
+    "nauseas leves"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en 24 a 48 horas",
+    "diarrea o vomitos que aparecen",
+    "dolor que cambia de zona o aumenta"
+  ],
+  "alarmSymptoms": [
+    "dolor intenso y continuo",
+    "fiebre alta o escalofrios",
+    "sangre en heces o vomitos"
+  ],
+  "doList": [
+    "comer ligero segun tolerancia",
+    "hidratarte a sorbos frecuentes",
+    "consultar si persiste o hay alarma"
+  ],
+  "avoidList": [
+    "alcohol y comidas muy grasas",
+    "automedicarte con medicamentos nuevos",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Horas", "text": "puede fluctuar segun comidas y gases" },
+    { "period": "1 a 3 dias", "text": "si no mejora, conviene valoracion" }
+  ]
+}
+

@@ -1,0 +1,34 @@
+{
+  "templateKey": "generic_case",
+  "category": "general_medicine",
+  "plainName": "molestia o problema de salud general",
+  "normalSymptoms": [
+    "malestar leve",
+    "cansancio",
+    "dolor leve o moderado"
+  ],
+  "watchSymptoms": [
+    "sintomas que no mejoran en varios dias",
+    "empeoramiento progresivo"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "dolor intenso que no cede",
+    "desmayo o confusion"
+  ],
+  "doList": [
+    "descansar lo posible",
+    "mantener buena hidratacion",
+    "seguir las indicaciones medicas si las hay"
+  ],
+  "avoidList": [
+    "hacer esfuerzos intensos si te sientes peor",
+    "ignorar un empeoramiento claro",
+    "automedicarte con medicamentos nuevos sin consultar"
+  ],
+  "timeline": [
+    { "period": "Primeros dias", "text": "sintomas variables segun la causa" },
+    { "period": "Dias siguientes", "text": "si no mejora o empeora, conviene consultar" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "stye_hordeolum",
+  "category": "ophthalmology",
+  "plainName": "orzuelo",
+  "normalSymptoms": [
+    "bulto doloroso en el parpado",
+    "enrojecimiento local",
+    "lagrimeo leve"
+  ],
+  "watchSymptoms": [
+    "hinchazon que aumenta",
+    "dolor que no mejora en pocos dias",
+    "secrecion o costras que empeoran"
+  ],
+  "alarmSymptoms": [
+    "fiebre",
+    "hinchazon importante alrededor del ojo",
+    "bajada de vision"
+  ],
+  "doList": [
+    "mantener higiene de parpados",
+    "evitar frotar el ojo",
+    "consultar si no mejora o se repite"
+  ],
+  "avoidList": [
+    "exprimir o pinchar el bulto",
+    "usar maquillaje en el ojo afectado",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "dolor e inflamacion locales" },
+    { "period": "Dias 4 a 10", "text": "suele mejorar de forma progresiva" }
+  ]
+}
+

@@ -1,0 +1,35 @@
+{
+  "templateKey": "wrist_sprain",
+  "category": "traumatology",
+  "plainName": "esguince de muneca",
+  "normalSymptoms": [
+    "dolor al mover la muneca",
+    "inflamacion leve",
+    "molestia al agarrar objetos"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora en 5 a 7 dias",
+    "hinchazon persistente",
+    "limitacion creciente del movimiento"
+  ],
+  "alarmSymptoms": [
+    "deformidad",
+    "perdida de sensibilidad en dedos",
+    "dolor muy intenso o dedos frios"
+  ],
+  "doList": [
+    "reposo relativo y proteger la zona",
+    "elevar la mano si hay hinchazon",
+    "consultar si no mejora o hay alarma"
+  ],
+  "avoidList": [
+    "cargar peso con la mano dolorida",
+    "retomar deporte demasiado pronto",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Dias 1 a 3", "text": "dolor e inflamacion iniciales" },
+    { "period": "Dias 4 a 21", "text": "mejora progresiva segun la gravedad" }
+  ]
+}
+

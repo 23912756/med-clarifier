@@ -1,0 +1,35 @@
+{
+  "templateKey": "uncomplicated_cystitis_symptoms",
+  "category": "urology",
+  "plainName": "molestias al orinar compatibles con cistitis",
+  "normalSymptoms": [
+    "escozor al orinar",
+    "ganas frecuentes de orinar",
+    "molestia en la parte baja del abdomen"
+  ],
+  "watchSymptoms": [
+    "sintomas que no mejoran en 24 a 48 horas",
+    "orina con mal olor persistente",
+    "dolor que aumenta"
+  ],
+  "alarmSymptoms": [
+    "fiebre",
+    "dolor en la zona lumbar",
+    "sangre abundante en la orina"
+  ],
+  "doList": [
+    "beber liquidos con regularidad",
+    "anotar sintomas y su evolucion",
+    "consultar para confirmar causa y tratamiento"
+  ],
+  "avoidList": [
+    "aguantar muchas horas sin orinar",
+    "automedicarte con antibioticos",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primer dia", "text": "escozor y urgencia urinaria pueden ser molestos" },
+    { "period": "2 a 3 dias", "text": "si no mejora, conviene valoracion y plan" }
+  ]
+}
+

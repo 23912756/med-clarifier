@@ -1,0 +1,35 @@
+{
+  "templateKey": "pleuritic_chest_pain_mild",
+  "category": "respiratory",
+  "plainName": "dolor al respirar (tipo pleuritico) leve",
+  "normalSymptoms": [
+    "dolor que aumenta al inspirar hondo",
+    "molestia localizada en el costado o pecho",
+    "tos leve asociada"
+  ],
+  "watchSymptoms": [
+    "dolor que empeora con el paso de las horas",
+    "fiebre que aparece o sube",
+    "tos con empeoramiento"
+  ],
+  "alarmSymptoms": [
+    "dificultad para respirar",
+    "dolor de pecho opresivo",
+    "desmayo o mareo intenso"
+  ],
+  "doList": [
+    "descansar y evitar esfuerzos",
+    "anotar sintomas y su evolucion",
+    "consultar si persiste o preocupa"
+  ],
+  "avoidList": [
+    "hacer deporte si duele al respirar",
+    "fumar",
+    "ignorar sintomas de alarma"
+  ],
+  "timeline": [
+    { "period": "Primer dia", "text": "el dolor puede ser variable segun movimientos y tos" },
+    { "period": "2 a 3 dias", "text": "si no mejora o empeora, conviene valoracion" }
+  ]
+}
+

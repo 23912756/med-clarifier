@@ -1,0 +1,33 @@
+{
+  "templateKey": "ankle_sprain_mild",
+  "category": "traumatology",
+  "plainName": "esguince leve de tobillo",
+  "normalSymptoms": [
+    "dolor leve o moderado",
+    "inflamacion",
+    "molestia al caminar"
+  ],
+  "watchSymptoms": [
+    "dolor que no mejora",
+    "hinchazon persistente"
+  ],
+  "alarmSymptoms": [
+    "perdida de sensibilidad",
+    "dolor muy intenso",
+    "empeoramiento claro"
+  ],
+  "doList": [
+    "seguir el reposo indicado",
+    "vigilar la evolucion",
+    "seguir las pautas medicas"
+  ],
+  "avoidList": [
+    "hacer esfuerzos",
+    "cargar peso",
+    "retomar actividad intensa demasiado pronto"
+  ],
+  "timeline": [
+    { "period": "Dias 1-3", "text": "dolor e inflamacion iniciales" },
+    { "period": "Dias 4-10", "text": "mejora progresiva" }
+  ]
+}
